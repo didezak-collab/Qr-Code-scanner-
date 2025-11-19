@@ -1,0 +1,25 @@
+{
+  "name": "εργαλεία-qr-code---δημιουργία-&-σάρωση",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "html5-qrcode": "2.3.8",
+    "xlsx": "0.18.5",
+    "qrcode": "1.5.3",
+    "jspdf": "2.5.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
